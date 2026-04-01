@@ -1,9 +1,9 @@
-.body{
+body{
     background-color:lightblue;
     color:#333;
     width:100%;
     font-family:sans-serif;
-    margin:0 auto;
+    margin:0;
 }
 
 .header{
@@ -25,7 +25,7 @@
     line-height:50px;
     width:90%;
     margin:0 auto;
-    padding:0 auto;
+    padding:0;
 }
 
 .menu ul {
@@ -36,7 +36,7 @@
     float:left;
     width:70px;
     display:block;
-    text-align;center;
+    text-align; center;
     color:#333;
     text-decoration:none;
 }
@@ -47,7 +47,7 @@
 }
 
 .content{
-    width:90;
+    width:90%;
     margin:auto;
     height:420px;
     padding:0.1px;
@@ -84,7 +84,7 @@
 }
 
 .footer{
-    width:90%
+    width:90%;
     margin:auto;
     height:40px;
     line-height:40px;
